@@ -298,7 +298,7 @@ This project is licensed under the MIT License.
 - Email: jewelchidinma@gmail.com
 
 
-**Live API URL:** 
+**Live API URL:** stringanalyzer-production-9177.up.railway.app
 
 **Last Updated:** October 21, 2025
 
